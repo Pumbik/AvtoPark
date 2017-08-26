@@ -1,0 +1,9 @@
+D:\MyProj\AvtoPark\AvtoPark\bin\Debug\AvtoPark.exe.config
+D:\MyProj\AvtoPark\AvtoPark\bin\Debug\AvtoPark.exe
+D:\MyProj\AvtoPark\AvtoPark\bin\Debug\AvtoPark.pdb
+D:\MyProj\AvtoPark\AvtoPark\obj\Debug\AvtoPark.csprojResolveAssemblyReference.cache
+D:\MyProj\AvtoPark\AvtoPark\obj\Debug\AvtoPark.exe
+D:\MyProj\AvtoPark\AvtoPark\obj\Debug\AvtoPark.pdb
+D:\ToGit\AvtoPark\AvtoPark\bin\Debug\AvtoPark.exe.config
+D:\ToGit\AvtoPark\AvtoPark\obj\Debug\AvtoPark.exe
+D:\ToGit\AvtoPark\AvtoPark\obj\Debug\AvtoPark.pdb
